@@ -1,23 +1,15 @@
-- 👋 Hi, I’m @JohnHazelton
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hey there, I'm John...
+I'm a software consultant by day, data scientist by night, and follower & contributor of basketball analysis by late-late-night-early-morning.
+Sports & health analytics projects make up most of the content on here, followed by miscellaneous coding endeavors and school projects.
 
-# 👋 Hey there, I'm John.
-I'm a software consultant by day, data scientist by night, and avid follower and contributor of basketball highlights and analysis by late-late-night-early-morning. 
-My main education and interests include:
-- Formal Learning - Econ & Business (undergrad), Data Science (Masters)
-- Professional Learning - Supply Chain, Consulting, Product Management
-- Personal learning - Product Design, Web Design, Basketball Analytics
-- Hobbies - running, backpacking, basketball (watching), exploring (and keeping a quite detailed log & raiting system of) local restaurants/bars
-For more info about me, check out [johncwhazelton.com][my site], [google.com][my LinkedIn], or [google.com][my Twitter], where I contribute suprising, exciting, and (sometimes) infuriating basketball stats and analysis.
+### A little about me...
+- 👨‍🎓 Education: Econ & Business (Undergrad), Data Science (Masters)
+- 💼 Profession: Software Consulting, Supply Chain, Product Management
+- 👨‍💻 Personal Exploration: Product Design, Web Design, Basketball Analytics
+- 🏃‍ Hobbies: Running, backpacking, basketball (watching), and trying (while keeping a quite detailed log & raiting system of) local restaurants/bars
 
-I’m @JohnHazelton
+### For more info...
+Check out my [Webite](https://johncwhazelton.com), [LinkedIn](https://www.linkedin.com/in/john-hazelton-352368156/), or [Twitter](https://twitter.com/John76058513) - where I provide tidbits of suprising, exciting, and (sometimes) infuriating basketball stats and analysis.
 
-![me](https://raw.githubusercontent.com/lucasvazq/lucasvazq/gh-pages/2020-07-15-235125_1360x768_scrot.png)
+![me](https://raw.githubusercontent.com/johnhazelton/johnhazelton/site snip.png)
 
-<!---
-JohnHazelton/JohnHazelton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

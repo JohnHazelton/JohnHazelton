@@ -6,7 +6,7 @@ Sports & health analytics projects make up most of the content on here, followed
 - 👨‍🎓 Education: Econ & Business (Undergrad), Data Science (Masters)
 - 💼 Profession: Software Consulting, Supply Chain, Product Management
 - 👨‍💻 Personal Exploration: Product Design, Web Design, Sports Analytics
-- 🏃‍ Hobbies: Running, backpacking, basketball (watching), and trying (while keeping a quite detailed log & raiting system of) local restaurants/bars
+- 🏃‍ Hobbies: Running, backpacking, watching basketball, and exploring (while keeping a quite detailed log & raiting system of) local restaurants/bars
 
 ### For more info...
 Check out my [Webite](https://johncwhazelton.com), [LinkedIn](https://www.linkedin.com/in/john-hazelton-352368156/), or [Twitter](https://twitter.com/John76058513) - where I provide tidbits of suprising, exciting, and (sometimes) infuriating basketball stats and analysis.

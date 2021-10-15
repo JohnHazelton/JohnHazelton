@@ -5,7 +5,7 @@ Sports & health analytics projects make up most of the content on here, followed
 ### A little about me...
 - 👨‍🎓 Education: Econ & Business (Undergrad), Data Science (Masters)
 - 💼 Profession: Software Consulting, Supply Chain, Product Management
-- 👨‍💻 Personal Exploration: Product Design, Web Design, Basketball Analytics
+- 👨‍💻 Personal Exploration: Product Design, Web Design, Sports Analytics
 - 🏃‍ Hobbies: Running, backpacking, basketball (watching), and trying (while keeping a quite detailed log & raiting system of) local restaurants/bars
 
 ### For more info...
